@@ -1,0 +1,14 @@
+*{
+    background-image: url(imagens/fundo.jpg);
+    text-align: center;
+
+}
+
+h1{
+
+    text-align: center;
+    color: rgb(1, 1, 10);
+}
+a {
+    color:black
+}
